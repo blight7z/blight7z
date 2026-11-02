@@ -1,21 +1,25 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/blight7z/blight7z/main/assets/hero.svg" width="100%" alt="Bright — Adunwit Sathapitanon. AI Engineer Intern building with data, models, and applications." />
+  <img src="https://raw.githubusercontent.com/blight7z/blight7z/main/assets/hero-maximal.svg" width="100%" alt="BRIGHT — AI Engineer Intern. Machine Learning, Document AI, and Automation." />
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/blight7z/blight7z/main/assets/typing.svg" width="800" alt="Building AI-powered applications. Machine Learning, Document AI, and Automation. From raw data to useful decisions." />
+  <img src="https://raw.githubusercontent.com/blight7z/blight7z/main/assets/typing.svg" width="800" alt="Building AI-powered applications. Machine Learning, Document AI, and Automation." />
 </p>
 
 <p align="center">
-  <a href="#selected-projects">Explore projects</a> &nbsp;·&nbsp;
-  <a href="#experience">Experience</a> &nbsp;·&nbsp;
-  <a href="#toolkit">Toolkit</a> &nbsp;·&nbsp;
-  <a href="https://github.com/blight7z?tab=repositories">All repositories ↗</a>
+  <a href="#selected-projects"><img src="https://raw.githubusercontent.com/blight7z/blight7z/main/assets/buttons/projects.svg" width="190" alt="Explore projects" /></a>
+  <a href="#experience"><img src="https://raw.githubusercontent.com/blight7z/blight7z/main/assets/buttons/experience.svg" width="150" alt="Experience" /></a>
+  <a href="#github-activity"><img src="https://raw.githubusercontent.com/blight7z/blight7z/main/assets/buttons/activity.svg" width="180" alt="GitHub activity" /></a>
 </p>
 
-I'm **Adunwit Sathapitanon (Bright)**, an **AI Engineer Intern based in Thailand**. I work across data preparation, machine learning, recommendation systems, and AI-powered applications.
+<p align="center">
+  <b>Adunwit Sathapitanon (Bright)</b> · AI Engineer Intern · Thailand<br />
+  Data preparation, recommendation systems, and AI-powered applications.
+</p>
 
-My current interests: **document AI & OCR**, **workflow automation**, and **integrating AI with existing applications**.
+<img src="https://raw.githubusercontent.com/blight7z/blight7z/main/assets/focus.svg" width="100%" alt="Three focus areas: Applied ML and RAG, Document AI and OCR, workflow automation and application integration." />
+
+<img src="https://raw.githubusercontent.com/blight7z/blight7z/main/assets/wave.svg" width="100%" alt="Neon divider" />
 
 ## Selected projects
 
@@ -57,7 +61,78 @@ These are offline research results; the model artifact and evaluation report doc
 **[RoV Draft Lab ↗](https://github.com/blight7z/rov-draft-lab)** — Local analysis and practice using search, rules, and small-data ML.  
 **[FA Reuse Flow ↗](https://github.com/blight7z/fa-reuse-flow)** — Excel import, QC, role-based approvals, and audit trails with synthetic demo data.
 
+<img src="https://raw.githubusercontent.com/blight7z/blight7z/main/assets/wave.svg" width="100%" alt="Neon divider" />
+
+## About me
+
+<img src="https://raw.githubusercontent.com/blight7z/blight7z/main/assets/about-terminal.svg" width="100%" alt="Bright works with machine learning, document AI, automation, Python, FastAPI and C#/.NET." />
+
+I'm interested in turning data and models into tools people can use, with **clear evaluation**, **traceable outputs**, and **practical application integration**.
+
+## Toolkit
+
+**AI & machine learning**
+
+<p>
+  <img src="https://raw.githubusercontent.com/blight7z/blight7z/main/assets/icons/python.svg" width="46" height="46" alt="Python" title="Python" />
+  <img src="https://raw.githubusercontent.com/blight7z/blight7z/main/assets/icons/scikit-learn.svg" width="46" height="46" alt="scikit-learn" title="scikit-learn" />
+  <img src="https://raw.githubusercontent.com/blight7z/blight7z/main/assets/icons/fastapi.svg" width="46" height="46" alt="FastAPI" title="FastAPI" />
+</p>
+
+`Python` `scikit-learn` `XGBoost` `CatBoost` `LLMs` `RAG` `OCR`
+
+**Applications & interfaces**
+
+<p>
+  <img src="https://raw.githubusercontent.com/blight7z/blight7z/main/assets/icons/javascript.svg" width="46" height="46" alt="JavaScript" title="JavaScript" />
+  <img src="https://raw.githubusercontent.com/blight7z/blight7z/main/assets/icons/typescript.svg" width="46" height="46" alt="TypeScript" title="TypeScript" />
+  <img src="https://raw.githubusercontent.com/blight7z/blight7z/main/assets/icons/html.svg" width="46" height="46" alt="HTML" title="HTML" />
+  <img src="https://raw.githubusercontent.com/blight7z/blight7z/main/assets/icons/css.svg" width="46" height="46" alt="CSS" title="CSS" />
+  <img src="https://raw.githubusercontent.com/blight7z/blight7z/main/assets/icons/nextjs.svg" width="46" height="46" alt="Next.js" title="Next.js" />
+  <img src="https://raw.githubusercontent.com/blight7z/blight7z/main/assets/icons/csharp.svg" width="46" height="46" alt="C#" title="C#" />
+  <img src="https://raw.githubusercontent.com/blight7z/blight7z/main/assets/icons/dotnet.svg" width="46" height="46" alt=".NET" title=".NET" />
+</p>
+
+`JavaScript` `TypeScript` `HTML/CSS` `Next.js` `C# / .NET`
+
+**Data, delivery & automation**
+
+<p>
+  <img src="https://raw.githubusercontent.com/blight7z/blight7z/main/assets/icons/postgresql.svg" width="46" height="46" alt="PostgreSQL" title="PostgreSQL" />
+  <img src="https://raw.githubusercontent.com/blight7z/blight7z/main/assets/icons/sqlite.svg" width="46" height="46" alt="SQLite" title="SQLite" />
+  <img src="https://raw.githubusercontent.com/blight7z/blight7z/main/assets/icons/docker.svg" width="46" height="46" alt="Docker" title="Docker" />
+  <img src="https://raw.githubusercontent.com/blight7z/blight7z/main/assets/icons/git.svg" width="46" height="46" alt="Git" title="Git" />
+</p>
+
+`SQL` `PostgreSQL` `SQLite` `Docker` `Render` `Power Automate` `Windows UI Automation`
+
+<details>
+<summary>Data workflow & engineering practices</summary>
+
+Data collection and cleaning · Feature engineering · Model evaluation · Data visualization · Health/readiness checks · Explicit failure handling.
+
+</details>
+
+<img src="https://raw.githubusercontent.com/blight7z/blight7z/main/assets/wave.svg" width="100%" alt="Neon divider" />
+
+## GitHub activity
+
+<a href="https://github.com/blight7z?tab=overview"><img src="https://raw.githubusercontent.com/blight7z/blight7z/main/assets/github-pulse.svg" width="100%" alt="Public GitHub statistics: public repositories, yearly contributions, active days, and peak daily contributions. Dated snapshot." /></a>
+
+<p>
+  <img src="https://raw.githubusercontent.com/blight7z/blight7z/main/assets/repo-dna.svg" width="49%" alt="Primary language counts across public repositories; these are repository counts, not skill ratings." />
+  <img src="https://raw.githubusercontent.com/blight7z/blight7z/main/assets/activity.svg" width="49%" alt="Daily public contributions over the last ninety days." />
+</p>
+
+<a href="https://github.com/blight7z?tab=overview"><img src="https://raw.githubusercontent.com/blight7z/blight7z/main/assets/contribution-snake.svg" width="100%" alt="Animated snake traversing Bright's actual public contribution calendar. Dated snapshot." /></a>
+
+<sub>Public activity only. Each card shows its snapshot date. [View the current contribution calendar ↗](https://github.com/blight7z?tab=overview)</sub>
+
+<img src="https://raw.githubusercontent.com/blight7z/blight7z/main/assets/wave.svg" width="100%" alt="Neon divider" />
+
 ## Experience
+
+<img src="https://raw.githubusercontent.com/blight7z/blight7z/main/assets/journey.svg" width="100%" alt="Journey: Panyapiwat Institute of Management from 2023; Smarterware internship in 2025; applied AI projects in 2026." />
 
 ### AI & Data Engineer Intern · Smarterware
 **January 2025 – May 2025**
@@ -74,48 +149,30 @@ Confirmed internship period: **6 January – 30 May 2025**.
 
 </details>
 
-## Toolkit
-
-<p>
-  <img src="https://raw.githubusercontent.com/blight7z/blight7z/main/assets/icons/python.svg" width="44" height="44" alt="Python" title="Python" />
-  <img src="https://raw.githubusercontent.com/blight7z/blight7z/main/assets/icons/scikit-learn.svg" width="44" height="44" alt="scikit-learn" title="scikit-learn" />
-  <img src="https://raw.githubusercontent.com/blight7z/blight7z/main/assets/icons/fastapi.svg" width="44" height="44" alt="FastAPI" title="FastAPI" />
-  <img src="https://raw.githubusercontent.com/blight7z/blight7z/main/assets/icons/nextjs.svg" width="44" height="44" alt="Next.js" title="Next.js" />
-  <img src="https://raw.githubusercontent.com/blight7z/blight7z/main/assets/icons/csharp.svg" width="44" height="44" alt="C#" title="C#" />
-  <img src="https://raw.githubusercontent.com/blight7z/blight7z/main/assets/icons/dotnet.svg" width="44" height="44" alt=".NET" title=".NET" />
-  <img src="https://raw.githubusercontent.com/blight7z/blight7z/main/assets/icons/docker.svg" width="44" height="44" alt="Docker" title="Docker" />
-  <img src="https://raw.githubusercontent.com/blight7z/blight7z/main/assets/icons/postgresql.svg" width="44" height="44" alt="PostgreSQL" title="PostgreSQL" />
-  <img src="https://raw.githubusercontent.com/blight7z/blight7z/main/assets/icons/sqlite.svg" width="44" height="44" alt="SQLite" title="SQLite" />
-</p>
-
-`Python` `SQL` `scikit-learn` `FastAPI` `Next.js` `C# / .NET` `Power Automate`
-
-<details>
-<summary>Full toolkit & data workflow</summary>
-
-**AI & data**  
-`XGBoost` `CatBoost` `LLMs` `OCR` `RAG`
-
-**Data workflow**  
-`Data Collection` `Data Cleaning` `Feature Engineering` `Model Evaluation` `Data Visualization`
-
-**Applications & integration**  
-`JavaScript` `TypeScript` `HTML/CSS` `Windows UI Automation`
-
-**Storage & deployment**  
-`SQLite` `PostgreSQL` `Docker` `Render`
-
-</details>
-
 ## Education
 
 **Panyapiwat Institute of Management**  
 Computer Engineering and Artificial Intelligence · **2023 – Present**
 
----
+<img src="https://raw.githubusercontent.com/blight7z/blight7z/main/assets/wave.svg" width="100%" alt="Neon divider" />
+
+## Connect
 
 <p align="center">
-  <sub>Learning by building. Improving through testing.</sub><br />
-  <sub>Technology icons by <a href="https://github.com/tandpfun/skill-icons">Skill Icons</a>.</sub><br />
-  <a href="https://github.com/blight7z?tab=repositories"><sub>Explore the code ↗</sub></a>
+  <a href="https://github.com/blight7z"><img src="https://raw.githubusercontent.com/blight7z/blight7z/main/assets/buttons/github.svg" width="120" alt="Follow Bright on GitHub" /></a>
+  <a href="https://www.instagram.com/b.lightzz/"><img src="https://raw.githubusercontent.com/blight7z/blight7z/main/assets/buttons/instagram.svg" width="145" alt="Bright's public Instagram profile" /></a>
 </p>
+
+<p align="center">
+  <b>Learning by building. Improving through testing.</b><br />
+  <a href="https://github.com/blight7z?tab=repositories">Explore all repositories ↗</a>
+</p>
+
+<details>
+<summary>Credits & profile details</summary>
+
+Technology icons: [Skill Icons](https://github.com/tandpfun/skill-icons), MIT licence retained in this repository.  
+Design inspiration: [DenverCoder1](https://github.com/DenverCoder1), [Platane](https://github.com/Platane), and [lowlighter](https://github.com/lowlighter).  
+The contribution animation and statistics cards are generated from public GitHub data by the script in this repository.
+
+</details>

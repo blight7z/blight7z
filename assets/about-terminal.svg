@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="330" viewBox="0 0 1200 330" role="img" aria-label="About Bright: AI Engineer Intern in Thailand working on ML, OCR, RAG and automation."><title>About Bright: AI Engineer Intern in Thailand working on ML, OCR, RAG and automation.</title>
+<rect width="1200" height="330" rx="20" fill="#0b1222"/><rect x="1" y="1" width="1198" height="328" rx="19" fill="none" stroke="#263c58"/>
+<path d="M0 52H1200" stroke="#263c58"/><circle cx="29" cy="27" r="5" fill="#f59fae"/><circle cx="48" cy="27" r="5" fill="#f4cf96"/><circle cx="67" cy="27" r="5" fill="#7af5cf"/>
+<text x="102" y="32" fill="#8fa7c3" font-size="14" font-family="Consolas,'Courier New',monospace">bright@github: ~/profile.py</text>
+<g font-family="Consolas,'Courier New',monospace" font-size="21">
+ <text x="35" y="103" fill="#b59aff">class <tspan fill="#5cd8ff">Bright</tspan><tspan fill="#eaf3ff">:</tspan></text>
+ <text x="65" y="144" fill="#8fa7c3">role <tspan fill="#eaf3ff">=</tspan> <tspan fill="#7af5cf">"AI Engineer Intern"</tspan></text>
+ <text x="65" y="181" fill="#8fa7c3">focus <tspan fill="#eaf3ff">= [</tspan><tspan fill="#7af5cf">"ML", "Document AI", "Automation"</tspan><tspan fill="#eaf3ff">]</tspan></text>
+ <text x="65" y="218" fill="#8fa7c3">stack <tspan fill="#eaf3ff">= [</tspan><tspan fill="#7af5cf">"Python", "FastAPI", "C# / .NET"</tspan><tspan fill="#eaf3ff">]</tspan></text>
+ <text x="35" y="285" fill="#7af5cf">❯ <tspan fill="#eaf3ff">learning_by_building()</tspan></text>
+</g>
+<g transform="translate(1045 165)">
+ <ellipse cy="105" rx="66" ry="9" fill="#172a45"/>
+ <g><animateTransform attributeName="transform" type="translate" values="0 0;0 -8;0 0" dur="5s" repeatCount="indefinite"/>
+ <path d="M0-54V-72" stroke="#7af5cf" stroke-width="3"/><circle cy="-76" r="6" fill="#b59aff"/>
+ <rect x="-53" y="-50" width="106" height="83" rx="23" fill="#1a2c48" stroke="#5cd8ff" stroke-width="2"/>
+ <rect x="-39" y="-34" width="78" height="38" rx="12" fill="#08111f"/>
+ <circle cx="-18" cy="-15" r="7" fill="#7af5cf"/><circle cx="18" cy="-15" r="7" fill="#7af5cf"/>
+ <path d="M-14 18H14" stroke="#b59aff" stroke-width="3" stroke-linecap="round"/>
+ <rect x="-38" y="44" width="76" height="37" rx="12" fill="#1a2c48" stroke="#365879"/><circle cy="62" r="6" fill="#b59aff"/>
+ </g>
+</g>
+</svg>
