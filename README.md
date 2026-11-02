@@ -25,6 +25,8 @@ I work on **data preparation, machine learning, recommendation systems, and AI-p
 - Contributed to machine learning model development and improvements to training workflows.
 - Assisted with LLM experimentation and fine-tuning for chatbot and content summarization prototypes.
 
+**Internship completion certificate:** Certificate of Apprenticeship, Smarterware Co., Ltd. · 6 January – 30 May 2025.
+
 ## Selected projects
 
 ### [ThaiBall / AI Scout Assistant ↗](https://github.com/blight7z/thaiball-research)
