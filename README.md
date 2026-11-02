@@ -7,9 +7,9 @@
 </p>
 
 <p align="center">
-  <a href="#selected-projects"><img src="https://raw.githubusercontent.com/blight7z/blight7z/main/assets/buttons/projects.svg" width="190" alt="Explore projects" /></a>
-  <a href="#experience"><img src="https://raw.githubusercontent.com/blight7z/blight7z/main/assets/buttons/experience.svg" width="150" alt="Experience" /></a>
-  <a href="#github-activity"><img src="https://raw.githubusercontent.com/blight7z/blight7z/main/assets/buttons/activity.svg" width="180" alt="GitHub activity" /></a>
+  <a href="#user-content-selected-projects"><img src="https://raw.githubusercontent.com/blight7z/blight7z/main/assets/buttons/projects.svg" width="190" alt="Explore projects" /></a>
+  <a href="#user-content-experience"><img src="https://raw.githubusercontent.com/blight7z/blight7z/main/assets/buttons/experience.svg" width="150" alt="Experience" /></a>
+  <a href="#user-content-github-activity"><img src="https://raw.githubusercontent.com/blight7z/blight7z/main/assets/buttons/activity.svg" width="180" alt="GitHub activity" /></a>
 </p>
 
 <p align="center">
