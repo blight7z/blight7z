@@ -3,6 +3,10 @@
 </p>
 
 <p align="center">
+  <img src="https://raw.githubusercontent.com/blight7z/blight7z/main/assets/typing.svg" width="800" alt="Building AI-powered applications. Machine Learning, Document AI, and Automation. From raw data to useful decisions." />
+</p>
+
+<p align="center">
   <a href="#selected-projects">Explore projects</a> &nbsp;·&nbsp;
   <a href="#experience">Experience</a> &nbsp;·&nbsp;
   <a href="#toolkit">Toolkit</a> &nbsp;·&nbsp;
@@ -72,6 +76,18 @@ Confirmed internship period: **6 January – 30 May 2025**.
 
 ## Toolkit
 
+<p>
+  <img src="https://raw.githubusercontent.com/blight7z/blight7z/main/assets/icons/python.svg" width="44" height="44" alt="Python" title="Python" />
+  <img src="https://raw.githubusercontent.com/blight7z/blight7z/main/assets/icons/scikit-learn.svg" width="44" height="44" alt="scikit-learn" title="scikit-learn" />
+  <img src="https://raw.githubusercontent.com/blight7z/blight7z/main/assets/icons/fastapi.svg" width="44" height="44" alt="FastAPI" title="FastAPI" />
+  <img src="https://raw.githubusercontent.com/blight7z/blight7z/main/assets/icons/nextjs.svg" width="44" height="44" alt="Next.js" title="Next.js" />
+  <img src="https://raw.githubusercontent.com/blight7z/blight7z/main/assets/icons/csharp.svg" width="44" height="44" alt="C#" title="C#" />
+  <img src="https://raw.githubusercontent.com/blight7z/blight7z/main/assets/icons/dotnet.svg" width="44" height="44" alt=".NET" title=".NET" />
+  <img src="https://raw.githubusercontent.com/blight7z/blight7z/main/assets/icons/docker.svg" width="44" height="44" alt="Docker" title="Docker" />
+  <img src="https://raw.githubusercontent.com/blight7z/blight7z/main/assets/icons/postgresql.svg" width="44" height="44" alt="PostgreSQL" title="PostgreSQL" />
+  <img src="https://raw.githubusercontent.com/blight7z/blight7z/main/assets/icons/sqlite.svg" width="44" height="44" alt="SQLite" title="SQLite" />
+</p>
+
 `Python` `SQL` `scikit-learn` `FastAPI` `Next.js` `C# / .NET` `Power Automate`
 
 <details>
@@ -100,5 +116,6 @@ Computer Engineering and Artificial Intelligence · **2023 – Present**
 
 <p align="center">
   <sub>Learning by building. Improving through testing.</sub><br />
+  <sub>Technology icons by <a href="https://github.com/tandpfun/skill-icons">Skill Icons</a>.</sub><br />
   <a href="https://github.com/blight7z?tab=repositories"><sub>Explore the code ↗</sub></a>
 </p>
