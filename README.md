@@ -4,35 +4,65 @@
 
 <p align="center">
   <a href="#about">About</a> &nbsp;·&nbsp;
+  <a href="#experience">Experience</a> &nbsp;·&nbsp;
   <a href="#selected-projects">Projects</a> &nbsp;·&nbsp;
-  <a href="#toolkit">Toolkit</a> &nbsp;·&nbsp;
-  <a href="https://github.com/blight7z?tab=repositories">All repositories ↗</a>
+  <a href="#education">Education</a> &nbsp;·&nbsp;
+  <a href="#toolkit">Toolkit</a>
 </p>
 
 ## About
 
-I'm **Bright**, an **AI Engineer Intern based in Thailand**. I'm interested in building useful tools around document processing, automation, and machine learning.
+I'm **Adunwit Sathapitanon (Bright)**, an **AI Engineer Intern based in Thailand**.
 
-My current focus is **OCR and document understanding**, **workflow automation**, and **connecting AI with existing applications**. This profile brings together my research, experiments, and project prototypes.
+I work on **data preparation, machine learning, recommendation systems, and AI-powered applications**. My current interests include **OCR and document understanding**, **workflow automation**, and **integrating AI with existing applications**.
+
+## Experience
+
+### AI & Data Engineer Intern · Smarterware
+**January 2025 – May 2025**
+
+- Collected, retrieved, cleaned, and validated datasets for analytics and machine learning training.
+- Contributed to machine learning model development and improvements to training workflows.
+- Assisted with LLM experimentation and fine-tuning for chatbot and content summarization prototypes.
 
 ## Selected projects
 
+### [ThaiBall / AI Scout Assistant ↗](https://github.com/blight7z/thaiball-research)
+**Football recruitment decision support · Research project**
+
+Built an end-to-end scouting application covering **2,571 attacking players** and **16 Thai League target teams**.
+
+- **Learned Similarity V3:** Developed a Logistic Regression model using absolute differences across 23 core features, with same-player, next-season positive pairs and role-matched negative pairs.
+- **Structured RAG:** Implemented entity detection, deterministic retrieval and scoring, cited evidence, Gemini explanations, SSE streaming, and a deterministic fallback.
+- **Application integration:** Connected a Next.js frontend and FastAPI backend through a server-side proxy, with Docker and Render deployment configuration, health/readiness checks, and explicit error handling.
+
+`Python` `scikit-learn` `FastAPI` `Next.js` `RAG` `Docker`
+
+### More projects
+
 | Project | What it explores | Built with |
 | :--- | :--- | :--- |
-| **[ThaiBall ↗](https://github.com/blight7z/thaiball-research)**<br>Football analytics | Thai League scouting support with tactical alignment, learned player similarity, and evidence-grounded RAG. | Python · Machine learning · RAG |
 | **[RoV Draft Lab ↗](https://github.com/blight7z/rov-draft-lab)**<br>Explainable recommendations | A local draft analysis and practice prototype using search, rules, and small-data ML. | Python · FastAPI · TypeScript · SQLite |
 | **[FA Reuse Flow ↗](https://github.com/blight7z/fa-reuse-flow)**<br>Workflow automation | An equipment buyback demo covering Excel import, QC, role-based approvals, and audit trails with synthetic data. | Next.js · FastAPI · PostgreSQL · Docker |
+
+## Education
+
+**Panyapiwat Institute of Management**  
+Computer Engineering and Artificial Intelligence · **2023 – Present**
 
 ## Toolkit
 
 **AI & data**  
-`Python` `Machine Learning` `OCR` `RAG`
+`Python` `SQL` `scikit-learn` `XGBoost` `CatBoost` `LLMs` `OCR` `RAG`
+
+**Data workflow**  
+`Data Collection` `Data Cleaning` `Feature Engineering` `Model Evaluation` `Data Visualization`
 
 **Applications & integration**  
-`C#` `.NET` `TypeScript` `FastAPI` `Next.js`
+`C#` `.NET` `JavaScript` `TypeScript` `HTML/CSS` `FastAPI` `Next.js`
 
-**Automation & storage**  
-`Power Automate` `Windows UI Automation` `SQLite` `PostgreSQL` `Docker`
+**Automation, storage & deployment**  
+`Power Automate` `Windows UI Automation` `SQLite` `PostgreSQL` `Docker` `Render`
 
 ---
 
