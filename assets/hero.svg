@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-labelledby="title desc"><title id="title">Bright — AI engineering, from data to decisions</title><desc id="desc">Adunwit Sathapitanon, AI Engineer Intern in Thailand. Data, machine learning, and useful applications.</desc>
+<defs>
+  <linearGradient id="bg" x2="1" y2="1"><stop stop-color="#102333"/><stop offset="1" stop-color="#08131f"/></linearGradient>
+  <radialGradient id="halo"><stop stop-color="#48e8ad" stop-opacity=".14"/><stop offset="1" stop-color="#48e8ad" stop-opacity="0"/></radialGradient>
+  <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M32 0H0V32" fill="none" stroke="#688f9b" stroke-opacity=".08"/></pattern>
+</defs>
+<rect width="1200" height="360" rx="22" fill="url(#bg)"/>
+<rect width="1200" height="360" rx="22" fill="url(#grid)"/>
+<ellipse cx="1020" cy="130" rx="310" ry="250" fill="url(#halo)"/>
+<rect x="1" y="1" width="1198" height="358" rx="21" fill="none" stroke="#294251"/>
+<g font-family="'Segoe UI',Arial,sans-serif">
+  <rect x="48" y="42" width="188" height="28" rx="14" fill="#163a35" stroke="#2c6958"/>
+  <circle cx="64" cy="56" r="4" fill="#8df0c8"/>
+  <text x="77" y="61" fill="#a5f6d6" font-size="13" font-weight="650" letter-spacing="1">AI ENGINEER INTERN</text>
+  <text x="48" y="178" fill="#f0f7fa" font-size="100" font-weight="750" letter-spacing="-5">Bright<tspan fill="#8df0c8">.</tspan></text>
+  <text x="52" y="229" fill="#d9e6ed" font-size="29" font-weight="500">I turn data into useful decisions.</text>
+  <text x="52" y="270" fill="#88a3b5" font-size="20">Machine learning · Document AI · Automation</text>
+</g>
+<text x="52" y="325" fill="#688598" font-size="13" letter-spacing="1.7" font-family="Consolas,'Courier New',monospace">ADUNWIT SATHAPITANON / THAILAND</text>
+<g stroke="#355c61" stroke-width="2" fill="none">
+  <path d="M814 92L968 92L1058 176L968 260L814 260L724 176Z"/>
+  <path d="M814 92L891 176L968 92M724 176H1058M814 260L891 176L968 260"/>
+</g>
+<g font-family="Consolas,'Courier New',monospace" font-size="14">
+  <rect x="770" y="70" width="112" height="44" rx="12" fill="#133b34" stroke="#437969"/>
+  <text x="826" y="98" fill="#a5f6d6" text-anchor="middle">DATA</text>
+  <rect x="832" y="154" width="118" height="44" rx="12" fill="#17303e" stroke="#436b80"/>
+  <text x="891" y="182" fill="#b8e3f9" text-anchor="middle">MODELS</text>
+  <rect x="926" y="238" width="112" height="44" rx="12" fill="#362f25" stroke="#766345"/>
+  <text x="982" y="266" fill="#f2d5a2" text-anchor="middle">APPS</text>
+</g>
+<g fill="#8df0c8"><circle cx="724" cy="176" r="5"/><circle cx="968" cy="92" r="5"/><circle cx="1058" cy="176" r="5"/><circle cx="814" cy="260" r="5"/></g>
+<text x="891" y="325" text-anchor="middle" fill="#688598" font-size="13" letter-spacing="1.5" font-family="Consolas,'Courier New',monospace">BUILD / EVALUATE / ITERATE</text>
+</svg>

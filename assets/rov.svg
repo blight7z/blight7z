@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="590" height="270" viewBox="0 0 590 270" role="img" aria-labelledby="title desc"><title id="title">RoV Draft Lab</title><desc id="desc">Search, strategy, and explainable picks. PYTHON, FASTAPI, SQLITE</desc>
+ <rect width="590" height="270" rx="18" fill="#101f33"/><rect x="1" y="1" width="588" height="268" rx="17" fill="none" stroke="#304c70"/>
+ <g font-family="'Segoe UI',Arial,sans-serif">
+ <text x="28" y="42" fill="#a4ccff" font-size="12" font-weight="650" letter-spacing="2">02 / LOCAL ML PROTOTYPE</text>
+ <text x="26" y="99" fill="#f0f7fa" font-size="42" font-weight="700" letter-spacing="-1.5">RoV Draft Lab</text>
+ <text x="28" y="137" fill="#a8becb" font-size="17">Search, strategy, and explainable picks.</text>
+ </g>
+ <g transform="translate(430 68)" fill="none" stroke="#304c70" stroke-width="2"><rect width="92" height="54" rx="9"/><path d="M13 15H79M13 27H55M13 39H65"/><rect y="72" width="92" height="54" rx="9"/><path d="M13 87H79M13 99H55M13 111H65"/><path d="M104 27H123V99H104"/></g>
+ <circle cx="553" cy="131" r="6" fill="#a4ccff"/>
+ <path d="M28 201H562" stroke="#304c70"/>
+ <text x="28" y="238" fill="#a4ccff" font-size="14" font-family="Consolas,'Courier New',monospace">PYTHON / FASTAPI / SQLITE</text>
+ </svg>

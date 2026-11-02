@@ -1,20 +1,57 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/blight7z/blight7z/main/assets/header.svg" width="100%" alt="Bright — AI Engineer Intern. Documents, workflows, and applied ML." />
+  <img src="https://raw.githubusercontent.com/blight7z/blight7z/main/assets/hero.svg" width="100%" alt="Bright — Adunwit Sathapitanon. AI Engineer Intern building with data, models, and applications." />
 </p>
 
 <p align="center">
-  <a href="#about">About</a> &nbsp;·&nbsp;
+  <a href="#selected-projects">Explore projects</a> &nbsp;·&nbsp;
   <a href="#experience">Experience</a> &nbsp;·&nbsp;
-  <a href="#selected-projects">Projects</a> &nbsp;·&nbsp;
-  <a href="#education">Education</a> &nbsp;·&nbsp;
-  <a href="#toolkit">Toolkit</a>
+  <a href="#toolkit">Toolkit</a> &nbsp;·&nbsp;
+  <a href="https://github.com/blight7z?tab=repositories">All repositories ↗</a>
 </p>
 
-## About
+I'm **Adunwit Sathapitanon (Bright)**, an **AI Engineer Intern based in Thailand**. I work across data preparation, machine learning, recommendation systems, and AI-powered applications.
 
-I'm **Adunwit Sathapitanon (Bright)**, an **AI Engineer Intern based in Thailand**.
+My current interests: **document AI & OCR**, **workflow automation**, and **integrating AI with existing applications**.
 
-I work on **data preparation, machine learning, recommendation systems, and AI-powered applications**. My current interests include **OCR and document understanding**, **workflow automation**, and **integrating AI with existing applications**.
+## Selected projects
+
+<a href="https://github.com/blight7z/thaiball-research">
+  <img src="https://raw.githubusercontent.com/blight7z/blight7z/main/assets/thaiball.svg" width="100%" alt="ThaiBall: ML-powered football scouting. 2,571 attacking players, 16 Thai League target teams, 23 core similarity features. Open the research project." />
+</a>
+
+**What I built**
+
+- **Player matching:** Learned Similarity V3 using Logistic Regression over 23 core feature differences.
+- **Evidence-backed answers:** Structured RAG with entity detection, deterministic scoring, citations, Gemini explanations, SSE streaming, and a deterministic fallback.
+- **End-to-end delivery:** Next.js + FastAPI through a server-side proxy, with Docker, Render deployment configuration, health/readiness checks, and explicit failure handling.
+
+**[Source code ↗](https://github.com/blight7z/thaiball-research)** &nbsp;·&nbsp; **[Model & validation ↗](https://github.com/blight7z/thaiball-research/blob/main/api/models/model_learned_similarity_v3.json)** &nbsp;·&nbsp; **[RAG evaluation ↗](https://github.com/blight7z/thaiball-research/blob/main/evaluation/results/RAG_EVALUATION_FINAL.md)**
+
+<details>
+<summary><b>Under the hood: model design & evaluation</b></summary>
+
+Similarity training uses same-player, next-season positive pairs and role-matched proxy negatives. Evaluation includes temporal and unseen-player tests. Scout Chat has a frozen, 30-question benchmark with claim-level evidence auditing.
+
+| Evaluation | Reported result |
+| :--- | :--- |
+| Similarity: temporal Recall@10 | 51.91% across 836 queries |
+| Similarity: strict unseen-player Recall@10 | 54.78% across 115 queries |
+| RAG: semantic task completion | 29/30 |
+| RAG: strict answer success | 13/30 |
+
+These are offline research results; the model artifact and evaluation report document the criteria and limitations. Similarity scores are not predictions of transfer success.
+
+</details>
+
+### More builds
+
+<p>
+  <a href="https://github.com/blight7z/rov-draft-lab"><img src="https://raw.githubusercontent.com/blight7z/blight7z/main/assets/rov.svg" width="49%" alt="RoV Draft Lab — local draft analysis and practice with search, rules, and explainable recommendations. Python, FastAPI, SQLite." /></a>
+  <a href="https://github.com/blight7z/fa-reuse-flow"><img src="https://raw.githubusercontent.com/blight7z/blight7z/main/assets/workflow.svg" width="49%" alt="FA Reuse Flow — a full-stack equipment buyback demo: Excel import, QC, approvals, and audit trails using synthetic data. Next.js, FastAPI, Docker." /></a>
+</p>
+
+**[RoV Draft Lab ↗](https://github.com/blight7z/rov-draft-lab)** — Local analysis and practice using search, rules, and small-data ML.  
+**[FA Reuse Flow ↗](https://github.com/blight7z/fa-reuse-flow)** — Excel import, QC, role-based approvals, and audit trails with synthetic demo data.
 
 ## Experience
 
@@ -25,46 +62,39 @@ I work on **data preparation, machine learning, recommendation systems, and AI-p
 - Contributed to machine learning model development and improvements to training workflows.
 - Assisted with LLM experimentation and fine-tuning for chatbot and content summarization prototypes.
 
-**Internship completion certificate:** Certificate of Apprenticeship, Smarterware Co., Ltd. · 6 January – 30 May 2025.
+<details>
+<summary>Internship completion certificate</summary>
 
-## Selected projects
+**Certificate of Apprenticeship** — Smarterware Co., Ltd.  
+Confirmed internship period: **6 January – 30 May 2025**.
 
-### [ThaiBall / AI Scout Assistant ↗](https://github.com/blight7z/thaiball-research)
-**Football recruitment decision support · Research project**
-
-Built an end-to-end scouting application covering **2,571 attacking players** and **16 Thai League target teams**.
-
-- **Learned Similarity V3:** Developed a Logistic Regression model using absolute differences across 23 core features, with same-player, next-season positive pairs and role-matched negative pairs.
-- **Structured RAG:** Implemented entity detection, deterministic retrieval and scoring, cited evidence, Gemini explanations, SSE streaming, and a deterministic fallback.
-- **Application integration:** Connected a Next.js frontend and FastAPI backend through a server-side proxy, with Docker and Render deployment configuration, health/readiness checks, and explicit error handling.
-
-`Python` `scikit-learn` `FastAPI` `Next.js` `RAG` `Docker`
-
-### More projects
-
-| Project | What it explores | Built with |
-| :--- | :--- | :--- |
-| **[RoV Draft Lab ↗](https://github.com/blight7z/rov-draft-lab)**<br>Explainable recommendations | A local draft analysis and practice prototype using search, rules, and small-data ML. | Python · FastAPI · TypeScript · SQLite |
-| **[FA Reuse Flow ↗](https://github.com/blight7z/fa-reuse-flow)**<br>Workflow automation | An equipment buyback demo covering Excel import, QC, role-based approvals, and audit trails with synthetic data. | Next.js · FastAPI · PostgreSQL · Docker |
-
-## Education
-
-**Panyapiwat Institute of Management**  
-Computer Engineering and Artificial Intelligence · **2023 – Present**
+</details>
 
 ## Toolkit
 
+`Python` `SQL` `scikit-learn` `FastAPI` `Next.js` `C# / .NET` `Power Automate`
+
+<details>
+<summary>Full toolkit & data workflow</summary>
+
 **AI & data**  
-`Python` `SQL` `scikit-learn` `XGBoost` `CatBoost` `LLMs` `OCR` `RAG`
+`XGBoost` `CatBoost` `LLMs` `OCR` `RAG`
 
 **Data workflow**  
 `Data Collection` `Data Cleaning` `Feature Engineering` `Model Evaluation` `Data Visualization`
 
 **Applications & integration**  
-`C#` `.NET` `JavaScript` `TypeScript` `HTML/CSS` `FastAPI` `Next.js`
+`JavaScript` `TypeScript` `HTML/CSS` `Windows UI Automation`
 
-**Automation, storage & deployment**  
-`Power Automate` `Windows UI Automation` `SQLite` `PostgreSQL` `Docker` `Render`
+**Storage & deployment**  
+`SQLite` `PostgreSQL` `Docker` `Render`
+
+</details>
+
+## Education
+
+**Panyapiwat Institute of Management**  
+Computer Engineering and Artificial Intelligence · **2023 – Present**
 
 ---
 
